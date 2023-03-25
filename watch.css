@@ -1,0 +1,29 @@
+﻿.season {
+    border-style: none;
+    background: fixed;
+    font-weight: bolder;
+    margin: 10px;
+    font-size: 20px;
+    transition: 0.5s;
+}
+.button {
+    text-align: center;
+    font-family: Courier;
+}
+.season:hover {
+    font-size: 24px;
+
+}
+.season:active {
+    background-color: #505050;
+}
+li {
+    margin-left: 80px;
+    text-align: center;
+
+}
+.watchhere {
+    margin: 60px 0px 60px 0px;
+
+}
+
